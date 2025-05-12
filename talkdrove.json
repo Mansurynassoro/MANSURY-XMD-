@@ -1,11 +1,11 @@
 
 {
-    "bot-name": "KANGO-XMD",
-    "description": "Kango XMD v2 made with love from creator in Ghana (Hector Manuel)",
+    "bot-name": "MANSURY-XMD",
+    "description": "MSNSURY XMD v2 made with love from creator in tanzania (Hector Manuel)",
     "logo": "https://files.catbox.moe/vikf6c.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://kango-ef1f620b32d8.herokuapp.com/pair",
-    "owner-verification":"officialkango73@gmail.com",
+    "owner-verification":"mansury93@gmail.com",
   
 "env": {
       "SESSION_ID": {
