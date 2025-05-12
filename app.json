@@ -1,7 +1,7 @@
 {
-  "name": "KANGO-XMD",
+  "name": "MANSURY-XMD",
   "version": "2.4.0",
-  "description": "KANGO-XMD, the best WhatsApp Bot in Ghana",
+  "description": "MANSURY-XMD, the best WhatsApp Bot in Ghana",
   "logo": "https://i.imgur.com/GVW7aoD.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/official_kango/KANGO-XMD-V2.git",
@@ -11,13 +11,13 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your KANGO-XMD session id here; must start with KANGO~",
+      "description": "Enter your MANSURY-XMD session id here; must start with MANSURY ~",
       "value": "",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "KANGO-XMD",
+      "value": "MANSURY-XMD",
       "required": false
     },
     "OWNER_NUMBER": {
@@ -32,7 +32,7 @@
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "KANGO",
+      "value": "MANSURY",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
