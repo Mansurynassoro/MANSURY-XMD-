@@ -1,17 +1,17 @@
 {
   "name": "MANSURY-XMD",
   "version": "2.4.0",
-  "description": "MANSURY-XMD, the best WhatsApp Bot in Ghana",
+  "description": "MANSURY-XMD, the best WhatsApp Bot in tanzania",
   "logo": "https://i.imgur.com/GVW7aoD.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
-  "repository": "https://github.com/official_kango/KANGO-XMD-V2.git",
+  "repository": "https://github.com/Mansurynassoro/MANSURY-XMD-.git",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your MANSURY-XMD session id here; must start with MANSURY ~",
+      "description": "Enter your MANSURY-XMD session id here",
       "value": "",
       "required": false
     },
@@ -56,7 +56,7 @@
       "required": false
     },
    "GITHUB_TOKEN": {
-  "description": "IMPORTANT: Follow these steps to generate your GitHub token correctly(Bot will not save settings without it!). Go to https://github.com/settings/tokens, select 'Tokens (classic)', then tap 'Generate new token' and select 'Generate new token (classic)'. Enter any note, choose 'No expiration', and under 'Select scopes', tick 'repo'. Scroll down, generate the token, and copy it. Paste it here. If using a single token for multiple bots, change the owner number to avoid settings mixups.",
+  "description": "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",
   "value": "",
   "required": false
 }
