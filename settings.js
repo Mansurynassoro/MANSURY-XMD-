@@ -1,7 +1,7 @@
 /*
   project_name : MANSURY-XMD Bot
   Version : 2.4.0
-  Owner : Hector Manuel
+  Owner : mansury nassoro 
   Do Not Clone 
 
 
@@ -17,7 +17,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //--------------------[ SESSION ID ]----------------------//
 
 global.SESSION_ID = process.env.SESSION_ID || '' 
-//Enter your MANSURY-XMD session id here; must start with MANSURY~
+//Enter your MANSURY-XMD session id here
 
 //--------------------[ BOT NAME ]----------------------//
 
@@ -49,7 +49,7 @@ global.timezones = process.env.TIMEZONE || "Africa/Accra"
 global.dbToken = process.env.GITHUB_TOKEN || "";
 // Not really necessary on panels/vps/termux, just put it when bot settings reset when bot restarts.
 
-//Go to https://github.com/settings/tokens, select 'Tokens (classic)', then tap 'Generate new token' and select 'Generate new token (classic)'. Enter any note, choose 'No expiration', and under 'Select scopes', tick 'repo'. Scroll down, generate the token, and copy it. Paste it here. If using a single token for multiple bots, change the owner number to avoid settings mixups.
+//Go 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.
 
 
 //-----------------[ CONTEXT LINK ]--------------------//
