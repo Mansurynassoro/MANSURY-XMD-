@@ -4,7 +4,7 @@
     "description": "MSNSURY XMD v2 made with love from creator in tanzania (Hector Manuel)",
     "logo": "https://files.catbox.moe/vikf6c.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://kango-ef1f620b32d8.herokuapp.com/pair",
+    "documentation-link": "https://sessio-02.onrender.com",
     "owner-verification":"mansury93@gmail.com",
   
 "env": {
@@ -15,7 +15,7 @@
         
         },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
+      "description": "255758547182",
       "value": "",
       "required": true
     },
@@ -31,7 +31,7 @@
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Kango",
+      "value": "mansury",
       "required": true
  
     },
@@ -41,7 +41,7 @@
       "required": false
     },
    "GITHUB_TOKEN": {
-  "description": "IMPORTANT: Follow these steps to generate your GitHub token correctly(Bot will not save settings without it!). Go to https://github.com/settings/tokens, select 'Tokens (classic)', then tap 'Generate new token' and select 'Generate new token (classic)'. Enter any note, choose 'No expiration', and under 'Select scopes', tick 'repo'. Scroll down, generate the token, and copy it. Paste it here. If using a single token for multiple bots, change the owner number to avoid settings mixups.",
+  "description": "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",
   "value": "",
   "required": false
         
